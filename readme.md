@@ -10,11 +10,11 @@ Files are organized by model and hallucination type:
 ```
 .
 ├── GPT-4-0613/
-│   ├── GPT-4_Evident-Conflict.tsv
-│   ├── GPT-4_Subtle-Conflict.tsv
+│   ├── GPT-4_Evident-Conflict.csv
+│   ├── GPT-4_Subtle-Conflict.csv
 ├── GPT-3.5-turbo-0613/
-│   ├── GPT-3.5-Turbo_Evident-Conflict.tsv
-│   ├── GPT-3.5-Turbo_Subtle-Conflict.tsv
+│   ├── GPT-3.5-Turbo_Evident-Conflict.csv
+│   ├── GPT-3.5-Turbo_Subtle-Conflict.csv
 ```
 
 ## Data Format
